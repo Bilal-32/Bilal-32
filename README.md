@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bilal-32
 - 👀 I’m interested in programming 
-- 🌱 I’m currently learning Fullstack web ddevelopment
+- 🌱 I’m currently learning Fullstack web development
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me: Email- bh1067258@gmail.com
 
